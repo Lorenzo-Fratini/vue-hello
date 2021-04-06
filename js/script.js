@@ -7,7 +7,7 @@ function init() {
     data: {
 
       'title' : 'World',
-      'image' : 'earth.jpg'
+      'image' : 'earth.png'
     }
   });
 }
